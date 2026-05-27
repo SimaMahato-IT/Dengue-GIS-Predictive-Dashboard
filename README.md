@@ -39,12 +39,11 @@ By marrying machine learning forecasts with **Spatio-Temporal GIS Mapping**, the
 ---
 
 ## 📂 Repository File System Structure
-
 ```text
-├── app.py                         # Streamlit Interface Configuration & Reactive Routing Engine
-├── requirements.txt               # Downstream Package Dependency Manifest 
-├── dengue_discrete_zones_2025.html # GIS Spatial Rendering Matrix for Year 2025
-├── dengue_discrete_zones_2026.html # GIS Spatial Rendering Matrix for Year 2026
-├── dengue_discrete_zones_2027.html # GIS Spatial Rendering Matrix for Year 2027
-├── dengue_discrete_zones_2028.html # GIS Spatial Rendering Matrix for Year 2028
-└── README.md                      # Core Project Presentation Document
+├── app.py                         
+├── requirements.txt               
+├── dengue_discrete_zones_2025.html 
+├── dengue_discrete_zones_2026.html 
+├── dengue_discrete_zones_2027.html 
+├── dengue_discrete_zones_2028.html 
+└── README.md             
